@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Sitio de pruebas</title>
+    <title>Documentación on Laboratorio de Hardware - Trabajo Integrador Final</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs on Sitio de pruebas</description>
+    <description>Recent content in Documentación on Laboratorio de Hardware - Trabajo Integrador Final</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <language>es</language>
     <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introducción</title>
-      <link>http://localhost:1313/docs/introduccion/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/introduccion/</guid>
-      <description>&lt;p&gt;¡Bienvenida a tu documentación con Geekdocs! 🧠✨&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
