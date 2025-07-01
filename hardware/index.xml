@@ -1,39 +1,296 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Laboratorio de Hardware - Trabajo Final Integrador on Laboratorio de Hardware - Trabajo Integrador Final</title>
-    <link>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/</link>
-    <description>Recent content in Laboratorio de Hardware - Trabajo Final Integrador on Laboratorio de Hardware - Trabajo Integrador Final</description>
-    <generator>Hugo</generator>
-    <language>es</language>
-    <atom:link href="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Justificación</title>
-      <link>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/justificacion/justificacion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/justificacion/justificacion/</guid>
-      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h1 id=&#34;selección-y-justificación-del-hardware&#34;&#xA;    &gt;&#xA;        Selección y Justificación del Hardware&#xA;    &lt;/h1&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/justificacion/justificacion/#selección-y-justificación-del-hardware&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: Selección y Justificación del Hardware&#34; aria-label=&#34;Anchor to: Selección y Justificación del Hardware&#34; href=&#34;#selecci%c3%b3n-y-justificaci%c3%b3n-del-hardware&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/images/compragamer-logo.png&#34;&#xA;  alt=&#34;Logo CompraGamer&#34;&#xA;  &#xA;/&gt;&lt;/p&gt;&#xA;&lt;p&gt;Los componentes y precios fueron recuperados el 29/06/2026 desde:&lt;br&gt;&#xA;🔗 &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;https://compragamer.com/armatupc?cpu=13359&amp;amp;paso=1&amp;amp;tipo=26&#34;&#xA;&gt;https://compragamer.com/armatupc?cpu=13359&amp;amp;paso=1&amp;amp;tipo=26&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h2 id=&#34;-tabla-de-componentes-y-costos&#34;&#xA;    &gt;&#xA;        🧾 Tabla de Componentes y Costos&#xA;    &lt;/h2&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/justificacion/justificacion/#-tabla-de-componentes-y-costos&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 🧾 Tabla de Componentes y Costos&#34; aria-label=&#34;Anchor to: 🧾 Tabla de Componentes y Costos&#34; href=&#34;#-tabla-de-componentes-y-costos&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Componente&lt;/th&gt;&#xA;          &lt;th&gt;Marca y Modelo&lt;/th&gt;&#xA;          &lt;th&gt;Costo&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;CPU&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Procesador AMD Ryzen 5 5500 4.2GHz Turbo + Wraith Stealth Cooler&lt;/td&gt;&#xA;          &lt;td&gt;$107.300&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Motherboard&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;ASUS PRIME A520M-K DDR4 AM4&lt;/td&gt;&#xA;          &lt;td&gt;$76.450&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Cooler&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Cooler incluido con el procesador AMD&lt;/td&gt;&#xA;          &lt;td&gt;$0&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Memoria RAM&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;2x Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16&lt;/td&gt;&#xA;          &lt;td&gt;$49.900&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Placa de Video (GPU)&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Asrock Radeon RX 6600 8GB GDDR6 Challenger D&lt;/td&gt;&#xA;          &lt;td&gt;$285.300&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Almacenamiento SSD 1&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;ADATA 256GB Legend 710 M.2 NVMe PCIe Gen3 x4&lt;/td&gt;&#xA;          &lt;td&gt;$29.250&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Almacenamiento SSD 2&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Kingston 960GB A400 SATA 500MB/s&lt;/td&gt;&#xA;          &lt;td&gt;$82.800&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Fuente&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Corsair 650W 80 Plus Bronze CX650&lt;/td&gt;&#xA;          &lt;td&gt;$86.550&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Gabinete&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Cougar MX110 RGB Mesh 4x120mm RGB Fixed Fans Vidrio Templado ATX&lt;/td&gt;&#xA;          &lt;td&gt;$45.900&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Monitor&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;ASUS VY229HF-J 22” FHD IPS 100Hz&lt;/td&gt;&#xA;          &lt;td&gt;$128.895&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Auriculares&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Redragon H211 Cronus RGB White&lt;/td&gt;&#xA;          &lt;td&gt;$28.050&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Mouse Pad&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Redragon Kunlun Large P006 XL 880x420mm&lt;/td&gt;&#xA;          &lt;td&gt;$24.150&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Mouse&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Wesdar Gaming GM2 Black Green 8 Botones 3600DPI&lt;/td&gt;&#xA;          &lt;td&gt;$11.400&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Teclado&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Redragon Shiva K512 RGB Español Black&lt;/td&gt;&#xA;          &lt;td&gt;$32.600&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Cable de poder&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Cable 3 patas 0,75mm 1,5mts Interlock Iram&lt;/td&gt;&#xA;          &lt;td&gt;$3.150&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;TOTAL&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;$988.545&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;strong&gt;Consumo estimado:&lt;/strong&gt; 260W&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Requisitos</title>
-      <link>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/requisitos/requisitos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/requisitos/requisitos/</guid>
-      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h1 id=&#34;requisitos-de-sistema-para-juegos&#34;&#xA;    &gt;&#xA;        Requisitos de Sistema para Juegos&#xA;    &lt;/h1&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/requisitos/requisitos/#requisitos-de-sistema-para-juegos&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: Requisitos de Sistema para Juegos&#34; aria-label=&#34;Anchor to: Requisitos de Sistema para Juegos&#34; href=&#34;#requisitos-de-sistema-para-juegos&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/images/compragamer-logo.png&#34;&#xA;  alt=&#34;Logo CompraGamer&#34;&#xA;  &#xA;/&gt;&lt;/p&gt;&#xA;&lt;p&gt;Los componentes y sus precios fueron extraídos de CompraGamer, en la página &lt;em&gt;&amp;ldquo;Armá tu PC&amp;rdquo;&lt;/em&gt; (&lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;https://compragamer.com/armatupc?utm_source=chatgpt.com&#34;&#xA;&gt;compragamer.com&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h2 id=&#34;-requisitos-recomendados&#34;&#xA;    &gt;&#xA;        🎮 Requisitos Recomendados&#xA;    &lt;/h2&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/requisitos/requisitos/#-requisitos-recomendados&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 🎮 Requisitos Recomendados&#34; aria-label=&#34;Anchor to: 🎮 Requisitos Recomendados&#34; href=&#34;#-requisitos-recomendados&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h3 id=&#34;red-dead-redemption-2&#34;&#xA;    &gt;&#xA;        Red Dead Redemption 2&#xA;    &lt;/h3&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/requisitos/requisitos/#red-dead-redemption-2&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: Red Dead Redemption 2&#34; aria-label=&#34;Anchor to: Red Dead Redemption 2&#34; href=&#34;#red-dead-redemption-2&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sistema Operativo:&lt;/strong&gt; Windows 10 (Actualización Abril de 2018)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Microprocesador:&lt;/strong&gt; i7‑4770K / AMD Ryzen 5 1500X&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Memoria RAM:&lt;/strong&gt; 12 GB&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tarjeta Gráfica:&lt;/strong&gt; Nvidia GTX 1060 6 GB / AMD RX 480 4 GB&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Almacenamiento:&lt;/strong&gt; 150 GB&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tarjeta de Sonido:&lt;/strong&gt; Compatible con DirectX&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Conexión a Internet:&lt;/strong&gt; Banda ancha de baja latencia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/images/rdr2-capture.png&#34;&#xA;  alt=&#34;Captura RDR2&#34;&#xA;  &#xA;/&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Presupuesto</title>
-      <link>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/presupuesto/presupuesto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/presupuesto/presupuesto/</guid>
-      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h1 id=&#34;-presupuesto-del-sistema-informático-gamer&#34;&#xA;    &gt;&#xA;        📊 Presupuesto del Sistema Informático Gamer&#xA;    &lt;/h1&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/presupuesto/presupuesto/#-presupuesto-del-sistema-informático-gamer&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 📊 Presupuesto del Sistema Informático Gamer&#34; aria-label=&#34;Anchor to: 📊 Presupuesto del Sistema Informático Gamer&#34; href=&#34;#-presupuesto-del-sistema-inform%c3%a1tico-gamer&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Recuperado el 29/06/2026 de: &lt;a&#xA;  class=&#34;gdoc-markdown__link&#34;&#xA;  href=&#34;https://compragamer.com/armatupc?cpu=13359&amp;amp;paso=1&amp;amp;tipo=26&#34;&#xA;&gt;CompraGamer - Armá tu PC&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h2 id=&#34;-tabla-de-componentes-y-costos&#34;&#xA;    &gt;&#xA;        🧾 Tabla de Componentes y Costos&#xA;    &lt;/h2&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/presupuesto/presupuesto/#-tabla-de-componentes-y-costos&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 🧾 Tabla de Componentes y Costos&#34; aria-label=&#34;Anchor to: 🧾 Tabla de Componentes y Costos&#34; href=&#34;#-tabla-de-componentes-y-costos&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Componente&lt;/th&gt;&#xA;          &lt;th&gt;Marca y Modelo&lt;/th&gt;&#xA;          &lt;th&gt;Costo&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;CPU&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Procesador AMD Ryzen 5 5500 4.2GHz Turbo + Wraith Stealth Cooler&lt;/td&gt;&#xA;          &lt;td&gt;$107.300&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Motherboard&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;ASUS PRIME A520M-K DDR4 AM4&lt;/td&gt;&#xA;          &lt;td&gt;$76.450&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Cooler&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Cooler incluido con el procesador AMD&lt;/td&gt;&#xA;          &lt;td&gt;$0&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Memoria RAM&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;2x Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16&lt;/td&gt;&#xA;          &lt;td&gt;$49.900&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Placa de Video (GPU)&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Asrock Radeon RX 6600 8GB GDDR6 Challenger D&lt;/td&gt;&#xA;          &lt;td&gt;$285.300&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Almacenamiento SSD 1&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;ADATA 256GB Legend 710 M.2 NVMe PCIe Gen3 x4&lt;/td&gt;&#xA;          &lt;td&gt;$29.250&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Almacenamiento SSD 2&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Kingston 960GB A400 SATA 500MB/s&lt;/td&gt;&#xA;          &lt;td&gt;$82.800&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Fuente&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Corsair 650W 80 Plus Bronze CX650&lt;/td&gt;&#xA;          &lt;td&gt;$86.550&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Gabinete&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Cougar MX110 RGB Mesh 4x120mm RGB Fixed Fans Vidrio Templado ATX&lt;/td&gt;&#xA;          &lt;td&gt;$45.900&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Monitor&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;ASUS VY229HF-J 22” FHD IPS 100Hz&lt;/td&gt;&#xA;          &lt;td&gt;$128.895&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Auriculares&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Redragon H211 Cronus RGB White&lt;/td&gt;&#xA;          &lt;td&gt;$28.050&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Mouse Pad&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Redragon Kunlun Large P006 XL 880x420mm&lt;/td&gt;&#xA;          &lt;td&gt;$24.150&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Mouse&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Wesdar Gaming GM2 Black Green 8 Botones 3600DPI&lt;/td&gt;&#xA;          &lt;td&gt;$11.400&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Teclado&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Redragon Shiva K512 RGB Español Black&lt;/td&gt;&#xA;          &lt;td&gt;$32.600&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Cable de poder&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Cable 3 patas 0,75mm 1,5mts Interlock Iram&lt;/td&gt;&#xA;          &lt;td&gt;$3.150&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;TOTAL&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;$988.545&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;strong&gt;Consumo estimado:&lt;/strong&gt; ⚡ 260W&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Conclusiones</title>
-      <link>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/conclusiones/conclusiones/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/conclusiones/conclusiones/</guid>
-      <description>&lt;div class=&#34;flex align-center gdoc-page__anchorwrap&#34;&gt;&#xA;    &lt;h1 id=&#34;-conclusión&#34;&#xA;    &gt;&#xA;        🧾 Conclusión&#xA;    &lt;/h1&gt;&#xA;    &lt;a data-clipboard-text=&#34;https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/conclusiones/conclusiones/#-conclusión&#34; class=&#34;gdoc-page__anchor clip flex align-center&#34; title=&#34;Anchor to: 🧾 Conclusión&#34; aria-label=&#34;Anchor to: 🧾 Conclusión&#34; href=&#34;#-conclusi%c3%b3n&#34;&gt;&#xA;        &lt;svg class=&#34;gdoc-icon gdoc_link&#34;&gt;&lt;use xlink:href=&#34;#gdoc_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;La elección se basó en dar prioridad a la &lt;strong&gt;motherboard&lt;/strong&gt;, el &lt;strong&gt;procesador&lt;/strong&gt; y la &lt;strong&gt;placa de video&lt;/strong&gt;, lo cual se vio reflejado también en el presupuesto. Sabiendo que los restantes componentes son importantes, pero no básicos para el correcto funcionamiento de una computadora gamer.&lt;/p&gt;&#xA;&lt;p&gt;Es una configuración muy equilibrada para jugar en &lt;strong&gt;Full HD con altos FPS&lt;/strong&gt;. Soporta perfectamente &lt;em&gt;Counter-Strike 2&lt;/em&gt; y &lt;em&gt;Half-Life 2&lt;/em&gt; con gráficos al máximo, y permite jugar &lt;em&gt;Red Dead Redemption 2&lt;/em&gt; en calidad media/alta con fluidez.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laboratorio de Hardware - Trabajo Final Integrador on Laboratorio de Hardware - Trabajo Integrador Final</title><link>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/</link><description>Recent content in Laboratorio de Hardware - Trabajo Final Integrador on Laboratorio de Hardware - Trabajo Integrador Final</description><generator>Hugo</generator><language>es</language><atom:link href="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/index.xml" rel="self" type="application/rss+xml"/><item><title>Justificación</title><link>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/justificacion/justificacion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/justificacion/justificacion/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap">
+ &lt;h1 id="selección-y-justificación-del-hardware"
+ >
+ Selección y Justificación del Hardware
+ &lt;/h1>
+ &lt;a data-clipboard-text="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/justificacion/justificacion/#selección-y-justificación-del-hardware" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Selección y Justificación del Hardware" aria-label="Anchor to: Selección y Justificación del Hardware" href="#selecci%c3%b3n-y-justificaci%c3%b3n-del-hardware">
+ &lt;svg class="gdoc-icon gdoc_link">&lt;use xlink:href="#gdoc_link">&lt;/use>&lt;/svg>
+ &lt;/a>
+&lt;/div>
+&lt;p>&lt;img
+ src="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/images/compragamer-logo.png"
+ alt="Logo CompraGamer"
+ 
+/>&lt;/p>
+&lt;p>Los componentes y precios fueron recuperados el 29/06/2026 desde:&lt;br>
+🔗 &lt;a
+ class="gdoc-markdown__link"
+ href="https://compragamer.com/armatupc?cpu=13359&amp;amp;paso=1&amp;amp;tipo=26"
+>https://compragamer.com/armatupc?cpu=13359&amp;amp;paso=1&amp;amp;tipo=26&lt;/a>&lt;/p>
+&lt;hr>
+&lt;div class="flex align-center gdoc-page__anchorwrap">
+ &lt;h2 id="-tabla-de-componentes-y-costos"
+ >
+ 🧾 Tabla de Componentes y Costos
+ &lt;/h2>
+ &lt;a data-clipboard-text="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/justificacion/justificacion/#-tabla-de-componentes-y-costos" class="gdoc-page__anchor clip flex align-center" title="Anchor to: 🧾 Tabla de Componentes y Costos" aria-label="Anchor to: 🧾 Tabla de Componentes y Costos" href="#-tabla-de-componentes-y-costos">
+ &lt;svg class="gdoc-icon gdoc_link">&lt;use xlink:href="#gdoc_link">&lt;/use>&lt;/svg>
+ &lt;/a>
+&lt;/div>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Componente&lt;/th>
+ &lt;th>Marca y Modelo&lt;/th>
+ &lt;th>Costo&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>CPU&lt;/strong>&lt;/td>
+ &lt;td>Procesador AMD Ryzen 5 5500 4.2GHz Turbo + Wraith Stealth Cooler&lt;/td>
+ &lt;td>$107.300&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Motherboard&lt;/strong>&lt;/td>
+ &lt;td>ASUS PRIME A520M-K DDR4 AM4&lt;/td>
+ &lt;td>$76.450&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Cooler&lt;/strong>&lt;/td>
+ &lt;td>Cooler incluido con el procesador AMD&lt;/td>
+ &lt;td>$0&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Memoria RAM&lt;/strong>&lt;/td>
+ &lt;td>2x Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16&lt;/td>
+ &lt;td>$49.900&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Placa de Video (GPU)&lt;/strong>&lt;/td>
+ &lt;td>Asrock Radeon RX 6600 8GB GDDR6 Challenger D&lt;/td>
+ &lt;td>$285.300&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Almacenamiento SSD 1&lt;/strong>&lt;/td>
+ &lt;td>ADATA 256GB Legend 710 M.2 NVMe PCIe Gen3 x4&lt;/td>
+ &lt;td>$29.250&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Almacenamiento SSD 2&lt;/strong>&lt;/td>
+ &lt;td>Kingston 960GB A400 SATA 500MB/s&lt;/td>
+ &lt;td>$82.800&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Fuente&lt;/strong>&lt;/td>
+ &lt;td>Corsair 650W 80 Plus Bronze CX650&lt;/td>
+ &lt;td>$86.550&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Gabinete&lt;/strong>&lt;/td>
+ &lt;td>Cougar MX110 RGB Mesh 4x120mm RGB Fixed Fans Vidrio Templado ATX&lt;/td>
+ &lt;td>$45.900&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Monitor&lt;/strong>&lt;/td>
+ &lt;td>ASUS VY229HF-J 22” FHD IPS 100Hz&lt;/td>
+ &lt;td>$128.895&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Auriculares&lt;/strong>&lt;/td>
+ &lt;td>Redragon H211 Cronus RGB White&lt;/td>
+ &lt;td>$28.050&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Mouse Pad&lt;/strong>&lt;/td>
+ &lt;td>Redragon Kunlun Large P006 XL 880x420mm&lt;/td>
+ &lt;td>$24.150&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Mouse&lt;/strong>&lt;/td>
+ &lt;td>Wesdar Gaming GM2 Black Green 8 Botones 3600DPI&lt;/td>
+ &lt;td>$11.400&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Teclado&lt;/strong>&lt;/td>
+ &lt;td>Redragon Shiva K512 RGB Español Black&lt;/td>
+ &lt;td>$32.600&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Cable de poder&lt;/strong>&lt;/td>
+ &lt;td>Cable 3 patas 0,75mm 1,5mts Interlock Iram&lt;/td>
+ &lt;td>$3.150&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>TOTAL&lt;/strong>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>$988.545&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>Consumo estimado:&lt;/strong> 260W&lt;/p></description></item><item><title>Requisitos</title><link>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/requisitos/requisitos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/requisitos/requisitos/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap">
+ &lt;h1 id="requisitos-de-sistema-para-juegos"
+ >
+ Requisitos de Sistema para Juegos
+ &lt;/h1>
+ &lt;a data-clipboard-text="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/requisitos/requisitos/#requisitos-de-sistema-para-juegos" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Requisitos de Sistema para Juegos" aria-label="Anchor to: Requisitos de Sistema para Juegos" href="#requisitos-de-sistema-para-juegos">
+ &lt;svg class="gdoc-icon gdoc_link">&lt;use xlink:href="#gdoc_link">&lt;/use>&lt;/svg>
+ &lt;/a>
+&lt;/div>
+&lt;p>&lt;img
+ src="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/images/compragamer-logo.png"
+ alt="Logo CompraGamer"
+ 
+/>&lt;/p>
+&lt;p>Los componentes y sus precios fueron extraídos de CompraGamer, en la página &lt;em>&amp;ldquo;Armá tu PC&amp;rdquo;&lt;/em> (&lt;a
+ class="gdoc-markdown__link"
+ href="https://compragamer.com/armatupc?utm_source=chatgpt.com"
+>compragamer.com&lt;/a>).&lt;/p>
+&lt;hr>
+&lt;div class="flex align-center gdoc-page__anchorwrap">
+ &lt;h2 id="-requisitos-recomendados"
+ >
+ 🎮 Requisitos Recomendados
+ &lt;/h2>
+ &lt;a data-clipboard-text="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/requisitos/requisitos/#-requisitos-recomendados" class="gdoc-page__anchor clip flex align-center" title="Anchor to: 🎮 Requisitos Recomendados" aria-label="Anchor to: 🎮 Requisitos Recomendados" href="#-requisitos-recomendados">
+ &lt;svg class="gdoc-icon gdoc_link">&lt;use xlink:href="#gdoc_link">&lt;/use>&lt;/svg>
+ &lt;/a>
+&lt;/div>
+&lt;div class="flex align-center gdoc-page__anchorwrap">
+ &lt;h3 id="red-dead-redemption-2"
+ >
+ Red Dead Redemption 2
+ &lt;/h3>
+ &lt;a data-clipboard-text="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/requisitos/requisitos/#red-dead-redemption-2" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Red Dead Redemption 2" aria-label="Anchor to: Red Dead Redemption 2" href="#red-dead-redemption-2">
+ &lt;svg class="gdoc-icon gdoc_link">&lt;use xlink:href="#gdoc_link">&lt;/use>&lt;/svg>
+ &lt;/a>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;strong>Sistema Operativo:&lt;/strong> Windows 10 (Actualización Abril de 2018)&lt;/li>
+&lt;li>&lt;strong>Microprocesador:&lt;/strong> i7‑4770K / AMD Ryzen 5 1500X&lt;/li>
+&lt;li>&lt;strong>Memoria RAM:&lt;/strong> 12 GB&lt;/li>
+&lt;li>&lt;strong>Tarjeta Gráfica:&lt;/strong> Nvidia GTX 1060 6 GB / AMD RX 480 4 GB&lt;/li>
+&lt;li>&lt;strong>Almacenamiento:&lt;/strong> 150 GB&lt;/li>
+&lt;li>&lt;strong>Tarjeta de Sonido:&lt;/strong> Compatible con DirectX&lt;/li>
+&lt;li>&lt;strong>Conexión a Internet:&lt;/strong> Banda ancha de baja latencia&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img
+ src="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/images/rdr2-capture.png"
+ alt="Captura RDR2"
+ 
+/>&lt;/p></description></item><item><title>Presupuesto</title><link>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/presupuesto/presupuesto/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/presupuesto/presupuesto/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap">
+ &lt;h1 id="-presupuesto-del-sistema-informático-gamer"
+ >
+ 📊 Presupuesto del Sistema Informático Gamer
+ &lt;/h1>
+ &lt;a data-clipboard-text="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/presupuesto/presupuesto/#-presupuesto-del-sistema-informático-gamer" class="gdoc-page__anchor clip flex align-center" title="Anchor to: 📊 Presupuesto del Sistema Informático Gamer" aria-label="Anchor to: 📊 Presupuesto del Sistema Informático Gamer" href="#-presupuesto-del-sistema-inform%c3%a1tico-gamer">
+ &lt;svg class="gdoc-icon gdoc_link">&lt;use xlink:href="#gdoc_link">&lt;/use>&lt;/svg>
+ &lt;/a>
+&lt;/div>
+&lt;blockquote>
+&lt;p>Recuperado el 29/06/2026 de: &lt;a
+ class="gdoc-markdown__link"
+ href="https://compragamer.com/armatupc?cpu=13359&amp;amp;paso=1&amp;amp;tipo=26"
+>CompraGamer - Armá tu PC&lt;/a>&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;div class="flex align-center gdoc-page__anchorwrap">
+ &lt;h2 id="-tabla-de-componentes-y-costos"
+ >
+ 🧾 Tabla de Componentes y Costos
+ &lt;/h2>
+ &lt;a data-clipboard-text="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/presupuesto/presupuesto/#-tabla-de-componentes-y-costos" class="gdoc-page__anchor clip flex align-center" title="Anchor to: 🧾 Tabla de Componentes y Costos" aria-label="Anchor to: 🧾 Tabla de Componentes y Costos" href="#-tabla-de-componentes-y-costos">
+ &lt;svg class="gdoc-icon gdoc_link">&lt;use xlink:href="#gdoc_link">&lt;/use>&lt;/svg>
+ &lt;/a>
+&lt;/div>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Componente&lt;/th>
+ &lt;th>Marca y Modelo&lt;/th>
+ &lt;th>Costo&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>CPU&lt;/strong>&lt;/td>
+ &lt;td>Procesador AMD Ryzen 5 5500 4.2GHz Turbo + Wraith Stealth Cooler&lt;/td>
+ &lt;td>$107.300&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Motherboard&lt;/strong>&lt;/td>
+ &lt;td>ASUS PRIME A520M-K DDR4 AM4&lt;/td>
+ &lt;td>$76.450&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Cooler&lt;/strong>&lt;/td>
+ &lt;td>Cooler incluido con el procesador AMD&lt;/td>
+ &lt;td>$0&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Memoria RAM&lt;/strong>&lt;/td>
+ &lt;td>2x Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16&lt;/td>
+ &lt;td>$49.900&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Placa de Video (GPU)&lt;/strong>&lt;/td>
+ &lt;td>Asrock Radeon RX 6600 8GB GDDR6 Challenger D&lt;/td>
+ &lt;td>$285.300&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Almacenamiento SSD 1&lt;/strong>&lt;/td>
+ &lt;td>ADATA 256GB Legend 710 M.2 NVMe PCIe Gen3 x4&lt;/td>
+ &lt;td>$29.250&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Almacenamiento SSD 2&lt;/strong>&lt;/td>
+ &lt;td>Kingston 960GB A400 SATA 500MB/s&lt;/td>
+ &lt;td>$82.800&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Fuente&lt;/strong>&lt;/td>
+ &lt;td>Corsair 650W 80 Plus Bronze CX650&lt;/td>
+ &lt;td>$86.550&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Gabinete&lt;/strong>&lt;/td>
+ &lt;td>Cougar MX110 RGB Mesh 4x120mm RGB Fixed Fans Vidrio Templado ATX&lt;/td>
+ &lt;td>$45.900&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Monitor&lt;/strong>&lt;/td>
+ &lt;td>ASUS VY229HF-J 22” FHD IPS 100Hz&lt;/td>
+ &lt;td>$128.895&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Auriculares&lt;/strong>&lt;/td>
+ &lt;td>Redragon H211 Cronus RGB White&lt;/td>
+ &lt;td>$28.050&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Mouse Pad&lt;/strong>&lt;/td>
+ &lt;td>Redragon Kunlun Large P006 XL 880x420mm&lt;/td>
+ &lt;td>$24.150&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Mouse&lt;/strong>&lt;/td>
+ &lt;td>Wesdar Gaming GM2 Black Green 8 Botones 3600DPI&lt;/td>
+ &lt;td>$11.400&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Teclado&lt;/strong>&lt;/td>
+ &lt;td>Redragon Shiva K512 RGB Español Black&lt;/td>
+ &lt;td>$32.600&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Cable de poder&lt;/strong>&lt;/td>
+ &lt;td>Cable 3 patas 0,75mm 1,5mts Interlock Iram&lt;/td>
+ &lt;td>$3.150&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>TOTAL&lt;/strong>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>$988.545&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>Consumo estimado:&lt;/strong> ⚡ 260W&lt;/p></description></item><item><title>Conclusiones</title><link>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/conclusiones/conclusiones/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/conclusiones/conclusiones/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap">
+ &lt;h1 id="-conclusión"
+ >
+ 🧾 Conclusión
+ &lt;/h1>
+ &lt;a data-clipboard-text="https://ayelenag97.github.io/TRABAJO-INTEGRADOR-FINAL/hardware/conclusiones/conclusiones/#-conclusión" class="gdoc-page__anchor clip flex align-center" title="Anchor to: 🧾 Conclusión" aria-label="Anchor to: 🧾 Conclusión" href="#-conclusi%c3%b3n">
+ &lt;svg class="gdoc-icon gdoc_link">&lt;use xlink:href="#gdoc_link">&lt;/use>&lt;/svg>
+ &lt;/a>
+&lt;/div>
+&lt;p>La elección se basó en dar prioridad a la &lt;strong>motherboard&lt;/strong>, el &lt;strong>procesador&lt;/strong> y la &lt;strong>placa de video&lt;/strong>, lo cual se vio reflejado también en el presupuesto. Sabiendo que los restantes componentes son importantes, pero no básicos para el correcto funcionamiento de una computadora gamer.&lt;/p>
+&lt;p>Es una configuración muy equilibrada para jugar en &lt;strong>Full HD con altos FPS&lt;/strong>. Soporta perfectamente &lt;em>Counter-Strike 2&lt;/em> y &lt;em>Half-Life 2&lt;/em> con gráficos al máximo, y permite jugar &lt;em>Red Dead Redemption 2&lt;/em> en calidad media/alta con fluidez.&lt;/p></description></item></channel></rss>
